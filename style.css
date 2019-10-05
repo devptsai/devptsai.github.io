@@ -56,6 +56,28 @@
     color:grey;
 }
 
+.workingspace {
+    margin-top: 100px;
+    text-align: center;
+}
+
+.workingspace h3 {
+    font-size: 52px;
+    font-weight: 200;
+    text-transform: uppercase;
+    margin-top: 30px;
+}
+
+.workingspace h3 span {
+    font-weight: 500;
+}
+
+.workingspace p {
+    font-size: 18px;
+    color: grey;
+
+}
+
 @media (min-width: 992px) { 
     .navbar-brand, .nav-link {
         color: white !important;
@@ -79,5 +101,10 @@
     .jumbotron {
         margin-top: -75px;
         height: 440px;
+    }
+
+    .workingspace {
+        margin-top: 100px;
+        text-align: left;
     }
 }
