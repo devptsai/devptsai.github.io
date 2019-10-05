@@ -10,6 +10,12 @@
     height: 640px;
 }
 
+.jumbotron .display-4 {
+    color: white;
+    text-align: center;
+    margin-top: 150px;
+}
+
 .tombol {
     text-transform: uppercase;
     border-radius: 40px;
